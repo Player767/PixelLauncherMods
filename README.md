@@ -1,3 +1,4 @@
+
 [![Pixel Launcher Mods](https://i.imgur.com/wLYsMxhl.png)](https://i.imgur.com/wLYsMxh.png)
 
 Pixel Launcher Mods is a root app for Android 12+ that enables you to add a number of features to the stock Pixel Launcher, without needing Xposed.
